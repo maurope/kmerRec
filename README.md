@@ -4,4 +4,4 @@ This is a Python3 implementation to predict recombination rates in plant species
 # Publications
 
 Peñuela, M. Riccio-Rengifo, C. Finke, J. Rocha, C. 2025. Unraveling plant
-recombination patterns: Insights from genome k-mers. [Plant Direct 9:e70113.]([https://github.com/criccio35/kmerExtractor](https://onlinelibrary.wiley.com/doi/10.1002/pld3.70113))
+recombination patterns: Insights from genome k-mers. [kmerExtractor](https://github.com/criccio35/kmerExtractor) [Plant Direct 9:e70113.]([https://github.com/criccio35/kmerExtractor](https://onlinelibrary.wiley.com/doi/10.1002/pld3.70113))
